@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Magda\Downloads\05_01_2022_GPE_OCE_TUT\GraphicProgrammingEngine\DirectXTK\DirectXTK-main\Inc\</FILEPATH>
+      <FILENAME>Keyboard.h</FILENAME>
+      <LINE>411</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>Der Enumerationstyp "DirectX::Keyboard::Keys" umfasst keine Bereichseinschränkung. Geben Sie "enum class" Vorrang vor "enum" (Enum.3).</DESCRIPTION>
+    <FUNCTION>DirectX::Keyboard::State::IsKeyDown</FUNCTION>
+    <DECORATED>?IsKeyDown@State@Keyboard@DirectX@@QEBA_NW4Keys@23@@Z</DECORATED>
+    <FUNCLINE>411</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Magda\Downloads\05_01_2022_GPE_OCE_TUT\GraphicProgrammingEngine\DirectXTK\DirectXTK-main\Inc\</FILEPATH>
+      <FILENAME>WICTextureLoader.h</FILENAME>
+      <LINE>164</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>Der Enumerationstyp "DirectX::WIC_LOADER_FLAGS" umfasst keine Bereichseinschränkung. Geben Sie "enum class" Vorrang vor "enum" (Enum.3).</DESCRIPTION>
+    <FUNCTION>DirectX::|</FUNCTION>
+    <DECORATED>??UDirectX@@YA?AW4WIC_LOADER_FLAGS@0@W410@0@Z</DECORATED>
+    <FUNCLINE>164</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Magda\Downloads\05_01_2022_GPE_OCE_TUT\GraphicProgrammingEngine\GraphicProgrammingEngine\</FILEPATH>
+      <FILENAME>GraphicProgrammingEngine.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>28251</DEFECTCODE>
+    <DESCRIPTION>Inkonsistente Anmerkung für "WinMain": diese Instanz verfügt über keine Anmerkungen. Siehe c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winbase.h(933). </DESCRIPTION>
+    <FUNCTION>WinMain</FUNCTION>
+    <DECORATED>WinMain</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

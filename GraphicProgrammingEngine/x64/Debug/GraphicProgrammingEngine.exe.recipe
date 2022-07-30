@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Magda\Documents\GitHub\GraphicsEngine\x64\Debug\GraphicProgrammingEngine.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Magda\Documents\GitHub\GraphicsEngine\x64\Debug\PSNormal.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Magda\Documents\GitHub\GraphicsEngine\x64\Debug\PSPhongShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Magda\Documents\GitHub\GraphicsEngine\x64\Debug\PSReflectionShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Magda\Documents\GitHub\GraphicsEngine\x64\Debug\PSSimpleTexture.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Magda\Documents\GitHub\GraphicsEngine\x64\Debug\VSNormal.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Magda\Documents\GitHub\GraphicsEngine\x64\Debug\VSPhongShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Magda\Documents\GitHub\GraphicsEngine\x64\Debug\VSReflectionShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Magda\Documents\GitHub\GraphicsEngine\x64\Debug\VSSimpleTexture.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Magda\Downloads\05_01_2022_GPE_OCE_TUT\GraphicProgrammingEngine\DirectXTK\DirectXTK-main\Inc\</FILEPATH>
+      <FILENAME>Keyboard.h</FILENAME>
+      <LINE>411</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>Der Enumerationstyp "DirectX::Keyboard::Keys" umfasst keine Bereichseinschränkung. Geben Sie "enum class" Vorrang vor "enum" (Enum.3).</DESCRIPTION>
+    <FUNCTION>DirectX::Keyboard::State::IsKeyDown</FUNCTION>
+    <DECORATED>?IsKeyDown@State@Keyboard@DirectX@@QEBA_NW4Keys@23@@Z</DECORATED>
+    <FUNCLINE>411</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Magda\Downloads\05_01_2022_GPE_OCE_TUT\GraphicProgrammingEngine\DirectXTK\DirectXTK-main\Inc\</FILEPATH>
+      <FILENAME>WICTextureLoader.h</FILENAME>
+      <LINE>164</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>Der Enumerationstyp "DirectX::WIC_LOADER_FLAGS" umfasst keine Bereichseinschränkung. Geben Sie "enum class" Vorrang vor "enum" (Enum.3).</DESCRIPTION>
+    <FUNCTION>DirectX::|</FUNCTION>
+    <DECORATED>??UDirectX@@YA?AW4WIC_LOADER_FLAGS@0@W410@0@Z</DECORATED>
+    <FUNCLINE>164</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Magda\Downloads\05_01_2022_GPE_OCE_TUT\GraphicProgrammingEngine\GraphicProgrammingEngine\</FILEPATH>
+      <FILENAME>GP_Material.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Rückgabewert wird ignoriert: "freopen".</DESCRIPTION>
+    <FUNCTION>GP_Material::SetSamplerState</FUNCTION>
+    <DECORATED>?SetSamplerState@GP_Material@@QEAAXXZ</DECORATED>
+    <FUNCLINE>21</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Magda\Downloads\05_01_2022_GPE_OCE_TUT\GraphicProgrammingEngine\GraphicProgrammingEngine\</FILEPATH>
+      <FILENAME>GP_Material.cpp</FILENAME>
+      <LINE>37</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Rückgabewert wird ignoriert: "freopen".</DESCRIPTION>
+    <FUNCTION>GP_Material::SetTexture</FUNCTION>
+    <DECORATED>?SetTexture@GP_Material@@QEAAXPEB_W@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Magda\Downloads\05_01_2022_GPE_OCE_TUT\GraphicProgrammingEngine\GraphicProgrammingEngine\</FILEPATH>
+      <FILENAME>GP_Material.cpp</FILENAME>
+      <LINE>54</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Rückgabewert wird ignoriert: "freopen".</DESCRIPTION>
+    <FUNCTION>GP_Material::createVertexShader</FUNCTION>
+    <DECORATED>?createVertexShader@GP_Material@@IEAAXPEB_W@Z</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Magda\Downloads\05_01_2022_GPE_OCE_TUT\GraphicProgrammingEngine\GraphicProgrammingEngine\</FILEPATH>
+      <FILENAME>GP_Material.cpp</FILENAME>
+      <LINE>57</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Rückgabewert wird ignoriert: "freopen".</DESCRIPTION>
+    <FUNCTION>GP_Material::createVertexShader</FUNCTION>
+    <DECORATED>?createVertexShader@GP_Material@@IEAAXPEB_W@Z</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Magda\Downloads\05_01_2022_GPE_OCE_TUT\GraphicProgrammingEngine\GraphicProgrammingEngine\</FILEPATH>
+      <FILENAME>GP_Material.cpp</FILENAME>
+      <LINE>79</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Rückgabewert wird ignoriert: "freopen".</DESCRIPTION>
+    <FUNCTION>GP_Material::createPixelShader</FUNCTION>
+    <DECORATED>?createPixelShader@GP_Material@@IEAAXPEB_W@Z</DECORATED>
+    <FUNCLINE>66</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Magda\Downloads\05_01_2022_GPE_OCE_TUT\GraphicProgrammingEngine\GraphicProgrammingEngine\</FILEPATH>
+      <FILENAME>GP_Material.cpp</FILENAME>
+      <LINE>82</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Rückgabewert wird ignoriert: "freopen".</DESCRIPTION>
+    <FUNCTION>GP_Material::createPixelShader</FUNCTION>
+    <DECORATED>?createPixelShader@GP_Material@@IEAAXPEB_W@Z</DECORATED>
+    <FUNCLINE>66</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Magda\Downloads\05_01_2022_GPE_OCE_TUT\GraphicProgrammingEngine\GraphicProgrammingEngine\</FILEPATH>
+      <FILENAME>GP_Material.cpp</FILENAME>
+      <LINE>105</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Rückgabewert wird ignoriert: "freopen".</DESCRIPTION>
+    <FUNCTION>GP_Material::createInputLayout</FUNCTION>
+    <DECORATED>?createInputLayout@GP_Material@@IEAAXPEAUID3D10Blob@@@Z</DECORATED>
+    <FUNCLINE>85</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Magda\Downloads\05_01_2022_GPE_OCE_TUT\GraphicProgrammingEngine\GraphicProgrammingEngine\</FILEPATH>
+      <FILENAME>GP_Material.cpp</FILENAME>
+      <LINE>117</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Rückgabewert wird ignoriert: "freopen".</DESCRIPTION>
+    <FUNCTION>GP_Material::CreateBuffer</FUNCTION>
+    <DECORATED>?CreateBuffer@GP_Material@@IEAAXIPEAPEAUID3D11Buffer@@@Z</DECORATED>
+    <FUNCLINE>108</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
